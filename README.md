@@ -18,7 +18,7 @@
     <td width="60%">
       
      ### 👨‍💻 Sobre mim
-      - 🧑‍💼 Dono da LMTECH Solutions  
+      - 🧑‍💼 Proprietário da LMTECH Solutions  
       - 🎓 Formado em Ciência da Computação na **UniAnchieta**.
       - 💼 Trabalho atualmente na área de Administração de TI Corporativa e Infraestrutura.
       - 🚀 Experiência com implementações SAP, ambientes Linux (Debian) e automação de processos.
